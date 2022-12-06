@@ -13,9 +13,6 @@ flask-wtf = "*"
 flask-login = "*"
 
 [dev-packages]
-pylint = "*"
-pycodestyle = "*"
-rope = "*"
 
 [requires]
 python_version = "3.9"
